@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "It's Only the Himalayas",
+    "price_gbp": 45.17,
+    "rating": 2,
+    "price_sek": 587.21
+  },
+  {
+    "id": 2,
+    "title": "Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond",
+    "price_gbp": 49.43,
+    "rating": 4,
+    "price_sek": 642.59
+  },
+  {
+    "id": 3,
+    "title": "See America: A Celebration of Our National Parks & Treasured Sites",
+    "price_gbp": 48.87,
+    "rating": 3,
+    "price_sek": 635.31
+  },
+  {
+    "id": 4,
+    "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "price_gbp": 36.94,
+    "rating": 2,
+    "price_sek": 480.22
+  },
+  {
+    "id": 5,
+    "title": "Under the Tuscan Sun",
+    "price_gbp": 37.33,
+    "rating": 3,
+    "price_sek": 485.29
+  },
+  {
+    "id": 6,
+    "title": "A Summer In Europe",
+    "price_gbp": 44.34,
+    "rating": 2,
+    "price_sek": 576.42
+  },
+  {
+    "id": 7,
+    "title": "The Great Railway Bazaar",
+    "price_gbp": 30.54,
+    "rating": 1,
+    "price_sek": 397.02
+  },
+  {
+    "id": 8,
+    "title": "A Year in Provence (Provence #1)",
+    "price_gbp": 56.88,
+    "rating": 4,
+    "price_sek": 739.44
+  },
+  {
+    "id": 9,
+    "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+    "price_gbp": 23.21,
+    "rating": 1,
+    "price_sek": 301.73
+  },
+  {
+    "id": 10,
+    "title": "Neither Here nor There: Travels in Europe",
+    "price_gbp": 38.95,
+    "rating": 3,
+    "price_sek": 506.35
+  },
+  {
+    "id": 11,
+    "title": "1,000 Places to See Before You Die",
+    "price_gbp": 26.08,
+    "rating": 5,
+    "price_sek": 339.04
+  }
+]
